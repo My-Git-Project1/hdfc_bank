@@ -1,4 +1,6 @@
 .class
 .project
 /node_modules/
+.classpath
+
 
